@@ -8,5 +8,5 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/amitkashyap01/inventoryappconfigurations.git
+                    uri: https://github.com/amitkashyap01/inventoryappconfigurations
                     searchPaths: configurations
